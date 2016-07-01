@@ -1,6 +1,6 @@
 # 第五期
-1.熟悉angularJS开发环境，目录结构
-2.了解 Directive、Controller、Service，自己随便写一个小页面
+- 1.熟悉angularJS开发环境，目录结构
+- 2.了解 Directive、Controller、Service，自己随便写一个小页面
 
 ###资料：
 
